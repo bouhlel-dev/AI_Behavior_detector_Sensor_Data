@@ -99,6 +99,3 @@ Options:
 | 2     | Nail Biting                      |
 | 3     | Skin Picking                     |
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
