@@ -1,0 +1,5 @@
+# This directory should contain the competition data files:
+# - train_series.parquet
+# - train_labels.csv
+# - test_series.parquet
+# - sample_submission.csv
