@@ -2,6 +2,8 @@
 
 This repository contains code for the [CMI - Detect Behavior with Sensor Data](https://www.kaggle.com/competitions/cmi-detect-behavior-with-sensor-data) Kaggle competition. The goal is to detect body-focused repetitive behaviors (BFRBs) from wrist-worn sensor data.
 
+<img width="533" height="615" alt="Image" src="https://github.com/user-attachments/assets/6bf7196a-2fd9-4b7e-818a-66c3001f143a" />
+
 ## Project Structure
 
 ```
